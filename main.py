@@ -10,6 +10,8 @@ import pandas as pd
 # for i in recipient:
 #     print(i)
 
+# als;fja;lkdsj;lajdflja;jj
+
 test = ["+6287829112648", "+628116359119"]
 
 msg = "Anda diundang untuk menghadiri acara graduation MSJ GMS."
